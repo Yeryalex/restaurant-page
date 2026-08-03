@@ -6,7 +6,7 @@ A dynamic single-page web application displaying a cozy restaurant concept, bund
 
 ## 📌 Project Overview
 
-This project showcases a responsive restaurant interface built with vanilla JavaScript. The main goals of this project are:
+This project showcases a restaurant interface built with vanilla JavaScript. The main goals of this project are:
 
 * 🚀 **GitHub Deployment:** Host and deploy the live web application through GitHub Pages.
 * 📦 **Webpack & ESM:** Implement the Webpack module bundler and leverage ECMAScript Modules (`import`/`export`) for modular, scalable code structure.
